@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elevare-sport",
+  "private_key_id": "ee3e29c8c5fe590214e7bc52a04b6de05c0a36de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMZC3FL/D1pDj1\n6MsI+22zzIBmhITxSM43SHMOWGraJyeYM+iVXqRmPDtouAaDDKqUaoAPQXgorwlv\nCnFIr9GzS7CAn/Z37/e+3d0lvvr3XJ9115lpKgrVtCOtjO8SFznxKiCu8wVuAiIV\nyK3x74XzU1iqF5Ok6u4G9ggB3iweCduBOhuubZv0qxecEKtQZV8gPZmiNlMR3JJZ\nTrVIVee0vfAkmyCIgvvzw7/ugfwKGW/yNpm2hXiKn6KP9XCla0RXd7pXYreN4/78\nqj3p8ANZwD1HaFVf9hgXC5BeAf/knCn5XZQX60FDNgEYSNDb94phT0R8qvAH6009\norY9jFTzAgMBAAECggEACtZpAuKm4S+DAa8FTQWf7H+0czslnXGh1ZaW2zTe/ZBD\n7jMaawkoqG8bK1NOrRY32UTIY4ayK14UnvmrxhHkiaBCzJ8uv29O8KTs+/pjbkhQ\nADydWtEq3+f8WFB3wLrQjLQSJZSnPg0I56TLbF+p95v8wJAdeQon8uCKziaMqk79\nJ1fOjSnkx+InbjJT/Z4Q8vhIiv2+MVqK0laPro/dgR8vlwYLT+PiFQHYdjCYbLH8\nmeua6sBbofJ1lKRFUazpipVFlE/3k35MdVCpjfeuWREA5M2i0qO9eHfUNky18NKi\nKlfPJRWAPhmP+QEw0iDMkChzannPslFCtIo58GnxaQKBgQD47S9MbcM0roxsm8jT\nhKYmIx7egOMmDV0wWPSi9s3IZI8rH379MQ0ll/NxOxTB63qlxN508iOoCvdfYKVl\nIkMCk6n6fWwH1sFnI+dDY15glVzWWJJJViAkwwAWjn3OnXhLaxOXaXmu4idyuSKk\nyz39slWoGg0kqrhpuIJE2wWIFQKBgQDSMwXhrArXHrYunzPdZhRXoeaOsAA1/4Hy\nxRf9KpgahpLCf/F1fMvPqa/uokHwImu3GosidQUvJBRxg+VNJ8pi8/8+OXjeKqhO\nWnvlxzukCcI3k/aQCHfd8u1LiXZ46yioob1RHTHAFVbk0UAd0t7sKWl4zveCt4Us\n6Lt7Irzi5wKBgQDSwA0xiiShL77YHTT0T/RTiZyTCVBHYT0qt8W3S3mCVhEYk3vy\nZVsaHwIPNdQnMnUOcBVfsboahd5WM/8UFuPhBJ/+4b1bDamE51LfLPw0jYCiQS7p\nRC/GsAodDtrY2V2FjMxzfut08ygu6yu3lhOP/TKkNho2lwu3Bm3UWhLe2QKBgACr\nmvwyQUKYXXpelZrCJZR19rdDxmxlqTNt/3qWNS/4d+VY5Rs7z6aU4vO+3rj2UyOd\nWQ4+E0soMUx/YC7TzqhsIMdBBaqntiuxzC1aak1GnrDwrtucu00g5jLUeGVAUrve\n8CyfDDaRmtpV9H9j2cQlCaoR9uYa0bjn8Rkebj3HAoGBAMEkJd6Y7eOnvKIihrom\nk+v6jN4uHLLB7ULCkdN2/+/Yt9ze9Ib34HBhzUX16xMRhfbhPYS8J0biyuYpaJMH\nnRKIHQG5d8nOAsyTeuEN5L8AKkCDkrf+Wl7jArhgeM4jfX5cdMJsq9T0x9Bby4Q2\nVE1K+7p4yOsYB8vNEi7cAqUc\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7sxot@elevare-sport.iam.gserviceaccount.com",
+  "client_id": "113343830447513092548",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7sxot%40elevare-sport.iam.gserviceaccount.com"
+}

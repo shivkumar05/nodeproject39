@@ -1,0 +1,1680 @@
+{
+  "Exercises": [
+    {
+      "Exercise_Name": "Standing Med Ball Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Standing TB Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Tricep Dips",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Calf Raises",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Machine OH Shoulder Press with Superband",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Machine OH Shoulder Press with Cable",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Machine OH Shoulder Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Seated DB Press (Bi Lateral)",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Seated DB Press Unilateral",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Standing DB Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Kneeling DB OH Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Half Kneeling SA DB Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Pike Push Up",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Unilateral Standing DB Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Military Press",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Parallel Bar Dips",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Landmine Press Kneeling",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Landmine Press Lunge",
+      "Type": "Vertical Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Wall Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Incline Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Knee Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Standard Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Loaded Push Ups (10-15 pounds)",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Elevated Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "DB Bench Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Free Bar Bench Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Machine Flys",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Floor Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "BB Bench Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Unilateral DB Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Decline Bench Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "DB Flys",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Cable Cross Over",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Med Ball Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Decline Loaded Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Bosu Ball Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Diamond Push Ups",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Super Band Bench Press Flat",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Incline Bench Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "SA Cable Cross Over",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "SB Bilateral DB Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "SB Unilateral DB Press",
+      "Type": "Horizontal Push",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Partial Chin Up",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Eccentric Chin Up",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Isometric Hold Chin Up",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Partner Assisted Chin Up",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Resistance Band Chin Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Chin Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Front Lat Pull Down",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Upper Pulley",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Neutral Grip Pull Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Prone Grip Pull Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Close Grip Lat Pull Down",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Loaded Chin Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Loaded Pull Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Alternate Cable Pull Downs",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Unilateral Machine Pull Down",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Unilateral Machine Pull Down on Swiss Ball",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Multi Direction Pull Ups",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Upright Row",
+      "Type": "Vertical Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Seated Row",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Prone Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Inverted Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Rear Delt Flys",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Face Pulls",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Standing Cable Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Bench Pulls",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Suspension Inverted Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Kneeling Cable Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Bilateral DB Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "One Arm DB Row",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Alternate DB Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Bent Over BB Row",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Lunge and Row",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Renegade Rows",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Inverted Rows on Box",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Inverted Rows on SB",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Unilateral SA Row w/o Support",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "T Bar pulls",
+      "Type": "Horizontal Pull",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2"
+    },
+    {
+      "Exercise_Name": "Hip Hinge",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Box Squats",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Goblet Squats",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Sumo Squats",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Med Ball Deadlift",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "KB Deadlift",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "DB Stiff Leg Deadlifts",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "DB RDL",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Rack Pin Pulls",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Elevated Sumo Squats",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Glute Bridge with TB",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Glute Bridge with Plates",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Lateral Squats",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Front Squat",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Back Squat",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Unilateral DB Deadlift",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "BB Hip Thrust - Strength-Power",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Roman Chair Hip Extension",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Cable Pull Through",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "RDL",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Conventional Deadlifts",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "SL Deadlifts with BB",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Alternate KB Swings - Strength-Power",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Pistol Squat",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Super Band Barbell Squats - Strength-Power",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Super Band Deadlifts - Strength-Power",
+      "Type": "Hip Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Split Squats",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Step Ups",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "MB OH Split Squats",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Forward Lunges",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Machine Leg Curls",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Machine Leg Extension",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "SB Ham Curls",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Nordics",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Bulagrian Split Squats",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Reverse Lunges",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "DB Walking Lunges",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "OH Med Ball Lunges",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Lateral Step Ups",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Loaded Step Ups",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Unilateral Machine Leg Curls",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Unilateral Machine Leg Extension",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Unilateral SB Ham Curls",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Multidirectional Lunges",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "BB Walking Lunge",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "DB Step Up & Reverse Lunge",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "BB Bulgarian Split Squat",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Unilateral Single Leg Squat",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "Bulgarian Squat with Swiss Ball",
+      "Type": "Knee Dominant",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,3"
+    },
+    {
+      "Exercise_Name": "50s",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Mountain Climbers",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Boat Pose Hold",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Side Plank",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Bear Crawls",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Mountain Climbers with Loop Band",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Boat Pose with Med Ball",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Side Plank on elbow with leg raise",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Side Plank on Hand",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "75s",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Suitcase Carry Single Hand",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Palloff Press Vertical",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Swiss Ball Dynamic Boat Pose",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "100s",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Swiss Ball Knee tucks",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Bird & Dog",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Side Plak On Swiss Ball",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Swiss Ball Pike",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Waiters Carry",
+      "Type": "Anti Flexion",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Prone Plank",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Leg Raise",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Deadbugs Knee Bend",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Prone Plank on Palm",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Hanging Knee Raise",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Deadbugs",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Praying Mantis Knee",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Wheel Roll Out Short Lever",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Jack Knife TRX",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Dynamic Plank",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Flowin Rollout",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Swiss Ball Rollout Long Lever",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Prone Plank on Swiss Ball",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Palm Prone Plank on SB",
+      "Type": "Anti Extension",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "PallOff Press Kneeling",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Russian Twist with Heel on Floor",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "PallOff Half Kneeling",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "PallOff Standing",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Russian Twist with Heel off Floor (Knee Flexed)",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Med Ball 180s",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Kneel Chops",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "PallOff with Squat",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Russian Twists Knee Extended",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Kneel Lifts",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Cable Push-Pull",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Half Kneel Chops",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Standing Chops",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Landmine 180s",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Turkish Get Up",
+      "Type": "Anti Rotation",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Dodge Ball",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Ball Drops",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Multi colour Ball Catches",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Run a Three",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "M Drill (Different variation)",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Z Drills",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Pro Agility 5 - 10 - 5",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "20m Sprint",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "40m Sprint",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "T Drill",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Mirror Agility",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "60m",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "80m",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Incline Sprints",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Decline Sprints",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Tow Belt Sprints",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "10m Walking Start 20m Sprint",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "10m Forward Rolling Start 20m Sprint",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "10m Backward Start 20m Sprint",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "5m Sideways Start 10m Acceleration",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "4 Cone Reaction Drill",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Parachute Resisted Sprints",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Sled Push",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Sled Pull",
+      "Type": "Speed- Agility",
+      "Exercise_Type": "Conditioning",
+      "Session_Id": "4"
+    },
+    {
+      "Exercise_Name": "Posture Hold",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Posture Hold and March",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Single Leg Exchange",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Double Leg Exchange",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Arm Drills",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Knee Drives",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Heel to Toe Walk",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Butt Kicks",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "A Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "B Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Side Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Fall and Run",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Prone and Run",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Roll and Run",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Sit - Turn - Run",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Backward Running",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Tow Belts Arm Drills",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Tow Belts High Knees",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Tow Belt A Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Tow Belts B Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Double Leg Bounce A Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "C Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Double Leg Bounds",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Single Leg Bounds",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Single Leg Bounce A Skips",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Single Leg Bounce A Skips Side ways",
+      "Type": "Running Mechanics",
+      "Exercise_Type": "Conditioning"
+    },
+    {
+      "Exercise_Name": "Ankle Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Skipping 30 sec x 3",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Landing Mechanics - Triple Extension to Double Leg Squat Deceleration",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Landing Mechanics - Triple Extension to Single Leg Squat Deceleration",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Stationary Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Wall Bounce Push Ups",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Dynamic Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Lateral Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Heidens",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Unilateral Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Med Ball Side Throws",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Push Throws",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "OH Throws",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Med Ball Slams",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Med Ball Side Slams",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "CMJ",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Jump Squats",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Split Squat Jumps",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Box Jumps",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "SBJ",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Single Leg Hops",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Chest Passes",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "MB OH Rotational Throws",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Plyo Push Ups",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Power Shrugs",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Hang Power Cleans",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Power Band Assisted Power Push Ups",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "High Pulls",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "One Arm DB Snatch",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Depth Jump",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Hurdles",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Med Ball Overhead & Scoop Toss",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Hang Clean",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Clean & Jerk",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Snatch",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Split Snatch",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Muscle Snatch",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Single Leg Med Ball Slam",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Single Leg Slam on Foam Pad",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Alternating Landmine Press",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    },
+    {
+      "Exercise_Name": "Bulgarian Split Squat Jumps",
+      "Type": "Power/ Plyometrics",
+      "Exercise_Type": "Strength",
+      "Session_Id": "1,2,3"
+    }
+  ],
+  "Sessions": [
+    {
+      "id": 1,
+      "SessionType": "WB Strength"
+    },
+    {
+      "id": 2,
+      "SessionType": "UB Strength"
+    },
+    {
+      "id": 3,
+      "SessionType": "LB Strength"
+    },
+    {
+      "id": 4,
+      "SessionType": "Speed/ Agility"
+    },
+    {
+      "id": 5,
+      "SessionType": "Prehab"
+    },
+    {
+      "id": 6,
+      "SessionType": "Rehab"
+    },
+    {
+      "id": 7,
+      "SessionType": "Yogasanas + Mobility Drills"
+    },
+    {
+      "id": 8,
+      "SessionType": "Meditation/ Yoga Nidra (Visualisation)"
+    },
+    {
+      "id": 9,
+      "SessionType": "Team Meeting"
+    },
+    {
+      "id": 10,
+      "SessionType": "Swimming"
+    },
+    {
+      "id": 11,
+      "SessionType": "Recovery - Ice Bath"
+    },
+    {
+      "id": 12,
+      "SessionType": "Recovery - Massage"
+    },
+    {
+      "id": 13,
+      "SessionType": "Physio Treatment"
+    },
+    {
+      "id": 14,
+      "SessionType": "Travel"
+    },
+    {
+      "id": 15,
+      "SessionType": "Skill Session"
+    },
+    {
+      "id": 16,
+      "SessionType": "Practice Match"
+    },
+    {
+      "id": 17,
+      "SessionType": "Competition Match"
+    },
+    {
+      "id": 18,
+      "SessionType": "Fitness Testing"
+    },
+    {
+      "id": 19,
+      "SessionType": "Match Simulation"
+    },
+    {
+      "id": 20,
+      "SessionType": "Breathing Exercises"
+    },
+    {
+      "id": 21,
+      "SessionType": "Conditioning"
+    },
+    {
+      "id": 22,
+      "SessionType": "Cycling"
+    },
+    {
+      "id": 23,
+      "SessionType": "Team Bonding Session"
+    }
+  ]
+}
